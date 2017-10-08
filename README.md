@@ -1,3 +1,7 @@
+# Activating DreamSpark
+
+https://www.msacademicverify.com/AVE/Verify/NewDefault.aspx?lc=1033&wa=wsignin1.0
+
 # API handler
 ```
 var api = {
